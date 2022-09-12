@@ -11,7 +11,7 @@
 <td><b>Используемые библиотеки</b></td>
 <tr>
 <td><b>2</b></td>
-<td><a href="https://github.com/max-serov1984/First/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.ipynb" target="_blank"><b>Исследование надежности заемщиков. В доработке.</b></a></td>
+<td><a href="https://github.com/max-serov1984/First/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.ipynb" target="_blank"><b>Исследование надежности заемщиков.</b></a></td>
 <td>Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.
 Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку. <br>Результат:<br>Семейное положение и количество детей влияют на возврат кредита в срок.</td>
 <td><b>pandas</b>, <b>pymystem3</b>, <b>collections</b></td>
@@ -22,7 +22,7 @@
 <td>pandas, <b>numpy</b>, <b>matplotlib</b>, <b>pymystem3</b>, <b>collections</b></td>
 <tr>
 <td> <b>4</b></td>
-<td><a href="https://github.com/max-serov1984/First/blob/main/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8.ipynb" target="_blank"><b>Определение перспективного тарифа для телеком-компании. В доработке.</b></a></td>
+<td><a href="https://github.com/max-serov1984/First/blob/main/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8.ipynb" target="_blank"><b>Определение перспективного тарифа для телеком-компании.</b></a></td>
 <td>Анализ тарифов мобильного оператора. Необходимо проанализировать поведение клиентов и сделать вывод — какой тариф лучше. <br>Результат:<br> Проанализировав данные, были выявлен лучший тариф, а так же доходность каждого тарифа.</td>
 <td>pandas, numpy, matplotlib, math, scipy</td>
 <tr>
