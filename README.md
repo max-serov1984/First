@@ -32,7 +32,7 @@
 <td>pandas, numpy, matplotlib, scipy, datetime</td>
 <tr>
 <td> <b>7</b></td>
-<td><a href="--------" target="_blank"><b>Анализ бизнес-показателей. В доработке.</b></a></td>
+<td><a href="https://github.com/max-serov1984/First/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9a.ipynb" target="_blank"><b>Анализ бизнес-показателей.</b></a></td>
 <td>Стажировка в отделе аналитики Яндекс.Афиши. Задача: помочь маркетологам оптимизировать маркетинговые затраты.
 Расчет бизнес-метрик: Retention, LTV, CAC, ROMI. <br>Результат:<br>Расчитаны бизнес-метрики. Определены окупаемые источники на которые небходимо сделать акцент.
 <td>pandas, numpy, matplotlib, scipy, datetime</td>
