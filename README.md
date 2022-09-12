@@ -64,7 +64,7 @@
 <td>pandas, plotly, numpy, seaborn, matplotlib, scipy</td>
 <tr>
 <td><b>13.2</b></td>
-<td><a href="https://github.com/max-serov1984/First/blob/main/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D1%87%D0%B0%D1%81%D1%82%D1%8C%202.ipynb" target="_blank"><b>Выпускной проект часть 2. В доработке.</b></a></td>
+<td><a href="https://github.com/max-serov1984/First/blob/main/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D1%87%D0%B0%D1%81%D1%82%D1%8C%202.ipynb" target="_blank"><b>Выпускной проект часть 2.</b></a></td>
 <td>Задачи: оценить корректность проведения теста, проанализировать результаты теста. <br>Результат:<br>Результаты теста признаны не успешными.</td>
 <td>pandas, plotly, matplotlib, math, scipy</td>
 <tr>
